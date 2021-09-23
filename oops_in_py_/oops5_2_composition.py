@@ -1,0 +1,3 @@
+# composition
+class Room:
+    pass
