@@ -1,3 +1,5 @@
+# if not present in dictionary
+# maintain an arrangement for stock y or n
 class pb:
     _counter=100
     def calculatebill(self,item,quantity):
