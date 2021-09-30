@@ -18,3 +18,6 @@ except Exception as e:
     print(e)
 finally:
     print("finally")
+#
+# else:  # else executed when theres no exception
+#     print("else")
